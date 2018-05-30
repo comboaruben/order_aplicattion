@@ -1,2 +1,1 @@
-# IDEA Ignores #
-.db_config.php
+/db_connect.php
